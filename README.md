@@ -3,7 +3,7 @@
 
  O projeto foi desenvolvido individualmente, para a disciplina de Algoritmos e Estrutura de Dados I.
 
- A biblioteca Graphics possuiu inúmeras limitações, e o uso dela, tendo em vista essas condições, é PROPOSITAL. Devido essas limitações, desenvolver projetos utilizando-a faz com que prevaleça o desenvolvimento da lógica.
+ A biblioteca Graphics possui inúmeras limitações, e o uso dela, tendo em vista essas condições, é PROPOSITAL. Devido essas limitações, desenvolver projetos utilizando-a faz com que prevaleça o desenvolvimento da lógica.
 
  O projeto tem como objetivo o desenvolvimento da lógica de programação, além do uso dos mecanismos da linguagem Python que foram ensinados até então. Desvios condicionais, loops, funções, listas, strings, etc. 
  
