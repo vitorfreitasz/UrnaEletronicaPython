@@ -1,0 +1,13 @@
+O total de votos para presidente: 26.
+13: 3 - 11%
+22: 2 - 7%
+15: 0 - 0%
+12: 7 - 26%
+99: 0 - 0%
+branco: 9 - 34%
+nulo: 5 - 19%
+O total de votos para governador: 25.
+45: 9 - 36%
+22: 4 - 16%
+branco: 4 - 16%
+nulo: 8 - 32%
